@@ -1,0 +1,19 @@
+{
+  "auth" : "",
+  "authors" : [],
+  "depends" : [
+    "META6"
+  ],
+  "description" : "",
+  "license" : "Artistic-2.0",
+  "name" : "",
+  "perl" : "6.d",
+  "provides" : { },
+  "resources" : [ ],
+  "source-url" : "",
+  "tags" : [
+    "modules", "distributions", "meta6"
+  ],
+    "version" : "0.0.1",
+    "meta-version": 1
+}
